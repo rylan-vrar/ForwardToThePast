@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679553faa086cdc48a58556300e27230, type: 3}
+  m_Name: Stanford XR hack
+  m_EditorClassIdentifier: 
+  title: Stanford XR hack
+  fullName: workspaces/default-ifbee5oyxdgequv9bmu4ga
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 53179472d0544b441a84dd288468131e, type: 2}
+  - {fileID: 11400000, guid: a40528de3f9f5644683b89e1f891029f, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 7b2c4232105d4de4fa4ab0c8c89dfb2c, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  scenes:
+  - {fileID: 11400000, guid: 1bd1c0788588ed64c88cd867f0bc1d9f, type: 2}
+  - {fileID: 11400000, guid: 3e94a8a6aa14f6548a0b8e332af1e706, type: 2}
+  - {fileID: 11400000, guid: 1965719b9e838684f8340827c78e5c70, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  integrations:
+  - {fileID: 11400000, guid: 7a36de8d511fe5e428976ad48437279b, type: 2}
+  index: 0
